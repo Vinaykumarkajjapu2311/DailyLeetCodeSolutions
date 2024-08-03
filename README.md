@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
