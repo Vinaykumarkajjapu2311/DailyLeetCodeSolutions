@@ -1,10 +1,18 @@
 class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
-        sort(target.begin(),target.end());
-        sort(arr.begin(),arr.end());
+        map<int,int>mpp;
+        int n=arr.size();
+        for(int i=0;i<n;i++)
+        {
+            mpp[arr[i]]++;
+            mpp[target[i]]--;
+        }
 
-        return target==arr;
-        
+        for(auto it:mpp)
+        {
+            if(it.second!=0)return false;
+        }
+        return true;
     }
 };
