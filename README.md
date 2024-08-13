@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2530-minimize-maximum-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2530-minimize-maximum-of-array) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
