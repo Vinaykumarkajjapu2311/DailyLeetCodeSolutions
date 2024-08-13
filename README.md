@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
