@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
