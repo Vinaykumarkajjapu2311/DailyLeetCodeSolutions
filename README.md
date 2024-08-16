@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [2530-minimize-maximum-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2530-minimize-maximum-of-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
