@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
