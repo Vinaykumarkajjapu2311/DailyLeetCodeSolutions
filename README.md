@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2530-minimize-maximum-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2530-minimize-maximum-of-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0172-factorial-trailing-zeroes) |
+| [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
