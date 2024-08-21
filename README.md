@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
