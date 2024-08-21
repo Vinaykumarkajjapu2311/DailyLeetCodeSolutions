@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
