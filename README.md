@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0386-lexicographical-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
