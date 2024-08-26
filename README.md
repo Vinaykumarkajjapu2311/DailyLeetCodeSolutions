@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0386-lexicographical-numbers) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
