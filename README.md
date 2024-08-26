@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
