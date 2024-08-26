@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
