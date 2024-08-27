@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 ## Tree
 |  |
