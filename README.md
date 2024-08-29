@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Prefix Sum
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0564-find-the-closest-palindrome) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 ## Math
