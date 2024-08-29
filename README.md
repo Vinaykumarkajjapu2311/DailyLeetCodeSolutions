@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
