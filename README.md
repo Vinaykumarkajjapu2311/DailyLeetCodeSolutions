@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0210-course-schedule-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 ## Tree
 |  |
