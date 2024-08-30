@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0229-majority-element-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
