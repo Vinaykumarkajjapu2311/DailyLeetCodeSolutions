@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
 | ------- |
