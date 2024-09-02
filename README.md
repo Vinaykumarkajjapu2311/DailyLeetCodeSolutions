@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0921-spiral-matrix-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0232-implement-queue-using-stacks) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
