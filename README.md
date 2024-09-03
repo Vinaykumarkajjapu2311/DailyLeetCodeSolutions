@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0564-find-the-closest-palindrome) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
