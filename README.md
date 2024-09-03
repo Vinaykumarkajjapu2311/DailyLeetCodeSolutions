@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
