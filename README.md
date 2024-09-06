@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
