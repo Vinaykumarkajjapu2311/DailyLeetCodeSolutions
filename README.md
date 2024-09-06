@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0605-can-place-flowers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
