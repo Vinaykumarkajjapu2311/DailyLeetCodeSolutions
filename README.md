@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0303-range-sum-query-immutable) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
