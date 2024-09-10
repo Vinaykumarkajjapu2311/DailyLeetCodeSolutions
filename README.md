@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
