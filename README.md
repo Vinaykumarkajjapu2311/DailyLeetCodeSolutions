@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2530-minimize-maximum-of-array) |
 ## Dynamic Programming
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0476-number-complement) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
