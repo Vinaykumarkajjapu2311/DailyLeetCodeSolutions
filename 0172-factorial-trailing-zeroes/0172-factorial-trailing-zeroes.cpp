@@ -1,11 +1,12 @@
 class Solution {
 public:
     int trailingZeroes(int n) {
-        int ans=0;
-        for(int i=5;(n/i)>0;i=i*5)
+        if(n<0)return -1;
+        int cnt=0;
+        for(int i=5;n/i>=1;i*=5)
         {
-            ans+=(n/i);
+            cnt+=n/i;
         }
-        return ans;
+        return cnt;
     }
 };
