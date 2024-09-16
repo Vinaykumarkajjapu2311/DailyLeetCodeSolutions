@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Combinatorics
 |  |
@@ -470,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
