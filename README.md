@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0539-minimum-time-difference) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 ## Stack
 |  |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 ## Number Theory
 |  |
 | ------- |
