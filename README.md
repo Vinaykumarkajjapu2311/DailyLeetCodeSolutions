@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0875-longest-mountain-in-array) |
 | [0921-spiral-matrix-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
+| [0875-longest-mountain-in-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1511-count-number-of-teams) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0875-longest-mountain-in-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0875-longest-mountain-in-array) |
 ## Rolling Hash
 |  |
 | ------- |
