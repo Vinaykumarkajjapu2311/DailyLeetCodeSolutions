@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0392-is-subsequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0817-design-hashmap) |
 ## Interactive
 |  |
@@ -486,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
