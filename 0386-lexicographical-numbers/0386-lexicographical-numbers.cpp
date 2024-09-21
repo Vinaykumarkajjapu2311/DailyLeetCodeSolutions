@@ -7,7 +7,7 @@ public:
         for(int j=0;j<10;j++)
         {
             if(10*i +j >n)return;
-            func(i*10+j,n,ans);
+            func(i*10 + j,n,ans);
         }
     }
     vector<int> lexicalOrder(int n) {
