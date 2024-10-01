@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1559-cherry-pickup-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Prefix Sum
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0948-sort-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
