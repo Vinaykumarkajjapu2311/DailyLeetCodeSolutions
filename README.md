@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2530-minimize-maximum-of-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2530-minimize-maximum-of-array) |
 ## Hash Table
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1250-longest-common-subsequence) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
