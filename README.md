@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 | [2470-removing-stars-from-a-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0780-max-chunks-to-make-sorted) |
+| [1002-maximum-width-ramp](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
 |  |
 | ------- |
