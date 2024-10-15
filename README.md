@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0213-house-robber-ii) |
