@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0965-unique-email-addresses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1297-maximum-number-of-balloons) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vinaykumarkajjapu2311/-CrackYourInternship/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
